@@ -12,8 +12,8 @@
 
 ## DoWhy Key Concepts
 
-* [모델 결과 해석하기](dowhy-key-concepts/undefined.md)
-* [추정치 반박 / 민감도 분석](dowhy-key-concepts/undefined-1.md)
+* [모델 결과 해석하기](dowhy-key-concepts/interpret-results.md)
+* [추정치 반박 / 민감도 분석](dowhy-key-concepts/sensitivity-analysis.md)
 * [성향점수 (Propensity Score)](dowhy-key-concepts/propensity-score/README.md)
   * [Propensity Score Matching](dowhy-key-concepts/propensity-score/propensity-score-matching.md)
   * [Propensity Score Stratification](dowhy-key-concepts/propensity-score/propensity-score-stratification.md)
